@@ -1,1 +1,1 @@
-"# mssql-dba-queries" 
+mssql-dba-queries
